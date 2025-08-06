@@ -1,0 +1,7 @@
+{
+    "uuid": "theme-scheduler@br0sinski.github",
+    "name": "Theme Scheduler",
+    "description": "A cinnamon applet that applies user themes in a given time period automatically ",
+    "icon": "preferences-desktop-theme",
+    "max-instances": "-1"
+}
